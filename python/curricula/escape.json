@@ -1,0 +1,10 @@
+{
+    "measure" : "reward",
+    "thresholds" : [9.0, 9.1, 9.25],
+    "min_lesson_length" : 2,
+    "signal_smoothing" : true, 
+    "parameters" : 
+    {
+        "chaser_speed" : [1.0, 2.0, 3.0, 4.0]
+    }
+}

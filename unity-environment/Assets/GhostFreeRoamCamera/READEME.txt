@@ -1,0 +1,33 @@
+Hello and thankyou for downloading this asset! :)
+
+You are using a free flying roaming camera.
+Suitable for FPS game and debugging.
+Open code and easy to modify to suit your needs.
+
+
+
+Any suggestion or improvement you want:
+	- Leave a comment on the asset store
+	- Email GooseyGamez@hotmail.com
+
+
+
+Attach the GhostFreeRoamCamera script to any camera and your ready to run.
+Requires Camera Component
+The public variables are:
+	* Initial Speed; the start speed when moving
+	* Increase Speed; velocity / speed over time (additive to initial speed)
+	* Allow Movement; can the camera move (position)
+	* Allow Rotation; can the camera turn (rotation)
+	* Forward Button; the button that will make the camera go forward
+	* Backward Button; the button that will make the camera go backward
+	* Right Button; the button that will make the camera go right
+	* Left Button; the button that will make the camera go left
+	* Cursor Sensitivity; how quicky the camera will rotate
+	* Cursor Toggle Allowed; can the cursor lock and be hidden
+	* Cursor Toggle Button; button to toggle the cursor lock and hidden on / off
+
+NOTE: The Unity editor restricts some cursor locking, but will fully work in a build "Maximize On Play"
+      will help to slightly overcome this when using this script in the Unity editor
+
+NOTE: May effect global transform attributes and screen (locks and cursor)
